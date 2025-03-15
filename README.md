@@ -1,5 +1,5 @@
 # ShopSmart
-# ShopSmart - Personalized Product Recommendation System
+# A Personalized Product Recommendation System
 
 ## Project Overview
 ShopSmart is a personalized product recommendation system that enhances the shopping experience by providing tailored suggestions based on customer purchase history. This project uses collaborative filtering, clustering, and hybrid recommendation techniques to improve user engagement and sales performance.
